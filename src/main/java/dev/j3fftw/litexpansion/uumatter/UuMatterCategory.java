@@ -108,7 +108,7 @@ public final class UuMatterCategory extends FlexCategory {
 
     @Override
     public void open(Player player, PlayerProfile playerProfile, SlimefunGuideMode slimefunGuideLayout) {
-        ChestMenu menu = new ChestMenu("&5UU-Matter Recipes");
+        ChestMenu menu = new ChestMenu("&5UU物质 配方");
 
         // Header
         for (int i = 0; i < 9; ++i) {
