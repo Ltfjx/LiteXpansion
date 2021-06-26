@@ -28,6 +28,6 @@ jobs:
       with:
     # Artifact name
         name: test
-    # Destination path
+    # Destination path1
         path: test
     
