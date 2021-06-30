@@ -31,7 +31,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
     # Artifact name1
-        name: test
+        name: jar_file
     # Destination path1
         path: staging
     
