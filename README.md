@@ -1,6 +1,9 @@
 # LiteXpansion
 LiteXpansion is a Slimefun4 Addon that started with adding the use full items/machines from SlimeXpansion. This slowly is changing into an Industrial Craft 2 Addon.
 
+## 下载最新构建
+可以直接在Actions里获取，~~其实是我懒得发release了（）~~
+
 ## :world_map: Navigation
 * [Download](#floppy_disk-download)
 * [Contents](#contents)
